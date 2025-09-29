@@ -38,7 +38,7 @@ This demonstrates a number of MATLAB features, including:
 * Code Issue detection using [Code Analyzer](https://www.mathworks.com/help/matlab/matlab_prog/check-code-for-errors-and-warnings.html) and [Code Issues](https://www.mathworks.com/help/matlab/ref/codeissues.html)
 * [Unit Tests](https://www.mathworks.com/help/matlab/matlab-unit-test-framework.html)
   * [Code Coverage using Cobertura report format](https://www.mathworks.com/help/matlab/ref/matlab.unittest.plugins.codecoverage.coberturaformat-class.html)
-  * [Mocking Framework](https://www.mathworks.com/help/matlab/mocking-framework.html)
+  * [Mocking Framework](https://www.mathworks.com/help/matlab/mock-dependencies-in-tests.html)
   * [Parameters in Unit Tests](https://www.mathworks.com/help/matlab/matlab_prog/use-parameters-in-class-based-tests.html)
 * [MATLAB Classes](https://www.mathworks.com/help/matlab/object-oriented-programming.html)
   * [Static Methods](https://www.mathworks.com/help/matlab/matlab_oop/static-methods.html)
